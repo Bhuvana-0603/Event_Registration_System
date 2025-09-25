@@ -1,1 +1,1 @@
-# Event_Registration_Management
+# Event_Registration_System
