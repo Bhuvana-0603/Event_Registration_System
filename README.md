@@ -1,1 +1,1 @@
-# TCSLastMile_Bhuvana
+# Event_Registration_Management
