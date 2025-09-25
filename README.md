@@ -1,1 +1,2 @@
 # Event_Registration_System
+A Salesforce-based module designed to manage event registrations efficiently. Features include comprehensive event and attendee profiles, automated registration workflows, session scheduling, and real-time attendance tracking. Role-based access ensures secure management for organizers and attendees. Integrated reporting and notifications enhance event oversight and attendee experience. Built to streamline event operations and improve engagement.
